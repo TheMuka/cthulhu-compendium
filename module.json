@@ -1,0 +1,68 @@
+{
+	"name": "cthulhu-compendium",
+	"title": "cthulhu-compendium",
+	"description": "Compendio de Cthulhu",
+	"author": "-",
+	"version": "0.1.0",
+	"minimumCoreVersion": "0.7.0",
+	"download" : "https://github.com/NeV3rKilL/cthulhu-compendium/archive/refs/tags/0.1.zip",
+	"manifest": "https://github.com/NeV3rKilL/cthulhu-compendium/raw/main/module.json",
+	"packs": [
+    {
+      "name": "cthulhu-armas",
+      "label": "Cthulhu Armas",
+      "system": "CoC7",
+      "path": "./packs/cthulhu-armas.db",
+      "entity": "Item"
+    },
+        {
+      "name": "cthulhu-bases",
+      "label": "Cthulhu Bases",
+      "system": "CoC7",
+      "path": "./packs/cthulhu-bases.db",
+      "entity": "Item"
+    },
+        {
+      "name": "cthulhu-criaturas",
+      "label": "Cthulhu Criaturas",
+      "system": "CoC7",
+      "path": "./packs/cthulhu-criaturas.db",
+      "entity": "Actor"
+    },
+        {
+      "name": "cthulhu-fobias",
+      "label": "Cthulhu-fobias",
+      "system": "CoC7",
+      "path": "./packs/cthulhu-fobias.db",
+      "entity": "Item"
+    },
+        {
+      "name": "cthulhu-habilidades",
+      "label": "cthulhu-habilidades",
+      "system": "CoC7",
+      "path": "./packs/cthulhu-habilidades.db",
+      "entity": "Item"
+    },
+        {
+      "name": "cthulhu-investigadores",
+      "label": "cthulhu-investigadores",
+      "system": "CoC7",
+      "path": "./packs/cthulhu-investigadores.db",
+      "entity": "Actor"
+    },
+        {
+      "name": "cthulhu-npc",
+      "label": "cthulhu-npc",
+      "system": "CoC7",
+      "path": "./packs/cthulhu-npc.db",
+      "entity": "Actor"
+    },
+        {
+      "name": "cthulhu-tablas",
+      "label": "cthulhu-tablas",
+      "system": "CoC7",
+      "path": "./packs/cthulhu-tablas.db",
+      "entity": "RollTable"
+    }
+    ]
+}

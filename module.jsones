@@ -1,0 +1,19 @@
+		{
+			"name": "cthulhu-compendium",
+			"title": "cthulhu-compendium",
+			"description": "Compendio de Cthulhu",
+			"author": "-",
+			"version": "1.0.0",
+			"minimumCoreVersion": "0.7.0",
+			"compatibleCoreVersion":"0.7.0",
+			"packs": [
+    					{
+      					"name": "mysc
+enedatabasename",
+      					"label": "The Human-Readable Name for My Compendium",
+      					"path": "packs/my-scenes-right-here.db",
+      					"entity": "Scene",
+      					"module": "MyModuleName"
+						}
+					]
+		  }
