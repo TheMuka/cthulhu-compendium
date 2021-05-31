@@ -6,7 +6,7 @@
 	"version": "0.1.0",
 	"minimumCoreVersion": "0.7.0",
 	"download" : "https://github.com/TheMuka/cthulhu-compendium/archive/refs/tags/0.1.0.zip",
-	"manifest": "https://github.com/TheMuka/cthulhu-compendium/raw/master/system.json",
+	"manifest": "https://github.com/TheMuka/cthulhu-compendium/raw/main/system.json",
 	"packs": [
     {
       "name": "cthulhu-armas",
